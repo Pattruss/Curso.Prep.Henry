@@ -1,0 +1,9 @@
+// Variable: Son como cajas de en las que se pueden guardar cosas y darle valor al contenido de las cajas.
+
+// String: Son cadenas de caracteres donde se pueden guardar datos y representarlos en texto.
+
+// Funciones: Es parte fundamental de lo que es Javascript, estos contienen diferentes reglas y argumentos con distintos niveles de importancia que se utilizan de acuerdo a la tarea que vayas a realizar.
+
+//  Declaración: Le decimos a la consola, o interprete que presente una variable una función cada vez quee scribamos las palabraas claves como: var, functiono if.
+
+// Valores Booleanos: En javascript se usa para determina si es verdadero o falso lo que se ha enviado al interprete.
